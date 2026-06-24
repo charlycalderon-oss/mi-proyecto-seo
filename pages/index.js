@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <Head>
         <title>Smart Web - Inicio</title>
+        <meta name="google-site-verification" content="j2p4uUddRoVNnSvD2zjVGAZ3ZUZ6a260dZ60rqEVnhQ" />
         <meta
           name="description"
           content="Página principal optimizada con técnicas SEO en Next.js"
