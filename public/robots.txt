@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://mi-proyecto-seo-vird.vercel.app/api/sitemap
+Sitemap: https://mi-proyecto-seo-virid.vercel.app/api/sitemap

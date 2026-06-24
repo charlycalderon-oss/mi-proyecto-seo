@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-proyecto-seo-vird.vercel.app";
+const BASE_URL = "https://mi-proyecto-seo-virid.vercel.app";
 
 async function getPagesFromCMS() {
 
