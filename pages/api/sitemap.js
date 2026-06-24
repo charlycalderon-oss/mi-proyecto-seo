@@ -1,6 +1,6 @@
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://mi-proyecto-seo-vird.vercel.app";
 
-async function getPages() {
+async function getPagesFromCMS() {
 
   return [
     {
@@ -22,7 +22,7 @@ async function getPages() {
 
 export default async function handler(req, res) {
 
-  const pages = await getPages();
+  const pages = await getPagesFromCMS();
 
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
